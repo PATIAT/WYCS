@@ -22,19 +22,19 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-    background-image: url('/images/eye.jpeg');
+    background-image: url("images/eye.jpeg");
     min-height: 100%;
 }
 
 /* Second image (Cast & Crew) */
 .bgimg-2 {
-    background-image: url("/images/ww1.jpg");
+    background-image: url("images/ww1.jpg");
     min-height: 400px;
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
-    background-image: url("/images/house.jpg");
+    background-image: url("images/house.jpg");
     min-height: 400px;
 }
 
